@@ -19,7 +19,7 @@ EMAIL = "alijoiya658@gmail.com"
 PASSWORD = "Zainjoiya21"
 
 # Tabbatar ka yi amfani da Token din da kake gani a logs (8487752681)
-BOT_TOKEN = "8421734960:AAE8JAdY7wPOSrACgWblJnM9q8zL8bHaO24"
+BOT_TOKEN = "8487752681:AAEe3mDTnioLmK9dWfsG2HaRxUXCsa2c8H4"
 CHAT_ID = "-1003243421314"
 ADMIN_ID = "7958281142"
 
