@@ -21,7 +21,7 @@ PASSWORD = "Zainjoiya21"
 # Tabbatar ka yi amfani da Token din da kake gani a logs (8487752681)
 BOT_TOKEN = "8421734960:AAE8JAdY7wPOSrACgWblJnM9q8zL8bHaO24"
 CHAT_ID = "-1003243421314"
-ADMIN_ID = "6190125375"
+ADMIN_ID = "7958281142"
 
 LOGIN_URL = "https://www.orangecarrier.com/login"
 SOCKET_URL = "https://hub.orangecarrier.com/socket.io/"
